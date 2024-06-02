@@ -1,1 +1,1 @@
-# Bharatt-Intern-Netflix-homepage-clone
+# Bharat-Intern-Netflix-homepage-clone
